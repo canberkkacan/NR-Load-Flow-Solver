@@ -1,5 +1,7 @@
 # NR-Load-Flow-Solver
 The Newton Raphson Load Flow Solver for IEEE CDF System
+
+
 In the operation of electrical power systems, load flow analysis is a fundamental analysis for 
 ensuring the safe operation and planning of power networks. The Newton-Raphson Load 
 Flow Analysis is a widely utilized method due to its ease of convergence and robustness in 
