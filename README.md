@@ -13,4 +13,5 @@ a common IEEE data format, such as the IEEE 30-bus and IEEE 118-bus systems. Mor
 considering the reactive power limits of generators, the function ensures a more realistic and 
 accurate representation of the power network's operating conditions.
 ![blok_diagram drawio](https://github.com/user-attachments/assets/063bfde3-0ef8-40b7-98c4-1ff63b88d083)
-[ieee300cdf.txt](https://github.com/user-attachments/files/16352056/ieee300cdf.txt)
+
+![image](https://github.com/user-attachments/assets/a0a84b72-08b2-4fa6-a84a-b3f1298cf874)
